@@ -1,2 +1,3 @@
 Vcs and git Training sessions are started
 this is module 1 in automation testing
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[Djuinor test automation
